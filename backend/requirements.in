@@ -1,5 +1,4 @@
 # This file lists the direct dependencies of the project.
-# Use 'pip-compile' to generate the requirements.txt file from this.
 
 fastapi
 uvicorn[standard]
