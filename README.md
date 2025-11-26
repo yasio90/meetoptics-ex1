@@ -30,6 +30,8 @@ uvicorn main:app --reload
 
 The backend API will now be running on `http://127.0.0.1:8000`.
 
+(Note: This project was developed with Python 3.10)
+
 ### 2. Frontend Setup
 
 In a **separate terminal**, set up and run the Vue.js frontend.
