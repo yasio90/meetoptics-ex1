@@ -1,0 +1,11 @@
+# This file lists the direct dependencies of the project.
+# Use 'pip-compile' to generate the requirements.txt file from this.
+
+fastapi
+uvicorn[standard]
+python-dotenv
+google-generativeai
+
+# For testing
+pytest
+httpx
